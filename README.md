@@ -1,3 +1,5 @@
+Some folks asked for help getting started with machine learning, so I made this. I wonder if anyone will ever look at it.
+
 ## What this is for and what it does
 - Prediction of binary or continuous target traits
 - Utilizes scikit-learn's Random Forest for both classification and regression tasks
