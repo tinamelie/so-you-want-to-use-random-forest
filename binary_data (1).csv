@@ -1,0 +1,9 @@
+Species,TargetTrait,pH,Dissolved_Oxygen,Conductivity,Phosphate,Age
+Species1,0,7.2,8.5,450,0.8,5.2
+Species2,1,6.8,10.1,380,0.5,3.7
+Species3,1,7.5,7.2,520,1.2,6.8
+Species4,1,7.0,9.3,410,0.7,4.5
+Species5,1,7.3,8.0,480,1.0,5.9
+Species6,0,6.9,9.8,400,0.6,4.1
+Species7,1,7.4,7.6,500,1.1,6.3
+Species8,0,7.1,8.9,430,0.9,5.0
