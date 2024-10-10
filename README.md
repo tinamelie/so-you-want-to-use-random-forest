@@ -1,4 +1,5 @@
-Some folks asked for help getting started with machine learning, so I made this. I wonder if anyone will ever look at it.
+I made this after folks at JGI User Meeting '24 asked for help getting started with machine learning with biological trait data.
+There's a lot more that goes into this, but the basic goal is for you to understand how to format your data and run the thing.
 
 ## What this is for and what it does
 - Prediction of binary or continuous target traits
@@ -59,7 +60,7 @@ To install the required packages:
 pip install scikit-learn pandas numpy
 ```
 
-## You should know
+## The more you know 💫
 
-- Don't go around directly reporting these feature importance scores and saying Tina told you to. I definitely did not. You really should use a model explainer like SHAPELY or LIME if you're going to dive into feature importance. Throw some cross validation in here too; it's good for you. 
-- Also, you really should be doing a lil hyperparameter tuning, but some of you live more dangerously than I do.
+- Don't you go directly reporting your feature importance scores and say Tina told you to. I definitely did not. You really should use a model explainer like SHAPELY or LIME if you're going to dive into feature importance. Throw some cross validation in there too-- it's good for you. 
+- Also, you really should do a lil hyperparameter tuning, but some of you live more dangerously than I do.
