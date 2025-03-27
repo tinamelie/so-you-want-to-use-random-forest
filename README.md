@@ -62,4 +62,4 @@ pip install scikit-learn pandas numpy
 
 ## The more you know 💫
 
-- Don't you go directly reporting your feature importance scores and say Tina told you to. I definitely did not. You really should use a model explainer like SHAPELY or LIME if you're going to dive into feature importance. Throw in some cross validation and some hyperparameter tuning too.
+- Don't you go directly reporting your feature importance scores and say Tina told you to. You really should use a model explainer like SHAPELY or LIME if you're going to dive into feature importance. Throw in some cross validation and some hyperparameter tuning too.
